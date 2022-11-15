@@ -111,7 +111,7 @@ class MapSampleState extends State<MapSample> {
             infoWindow: InfoWindow(
                 title: regionName[0].toUpperCase() + regionName.substring(1),
                 snippet:
-                    "PSI 24-Hour Reading: ${psiReadings["psi_twenty_four_hourly"][regionName]}\nStatus: $regionStatus"));
+                    "PSI 24-Hour: ${psiReadings["psi_twenty_four_hourly"][regionName]}\nStatus: $regionStatus"));
 
         markers.add(temp);
       } else {
@@ -125,7 +125,7 @@ class MapSampleState extends State<MapSample> {
         }
 
         nationalReadings =
-            "${nationalReadings}PSI 24-Hour Reading: $nationalPsi\nStatus: $nationalStatus";
+            "${nationalReadings}PSI 24-Hour: $nationalPsi\nStatus: $nationalStatus";
       }
     }
     return nationalReadings;
