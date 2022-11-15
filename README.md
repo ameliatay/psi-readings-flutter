@@ -9,3 +9,9 @@ A new Flutter project.
 3. Redirection button for users to easily navigate back to Singapore
 4. Overall view of Singapore's national PSI ratings
 5. Info icon button for interested users to access NEA's site on PSI readings
+
+## Initialising the application
+
+- ```git clone``` with the repo's URL in desired local directory
+- ```cd``` into the folder
+- Run ```flutter run``` or use the IDE's ```Run``` > ```Start Debugging```
