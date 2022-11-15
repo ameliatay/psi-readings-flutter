@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Main Functionalities
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Retrieving Singapore PSI data for 5 regions - North, South, East, West, Central - based on current date
+2. Markers with PSI 24-Hour Readings for each region, including the healthy status of each reading
+3. Redirection button for users to easily navigate back to Singapore
+4. Overall view of Singapore's national PSI ratings
+5. Info icon button for interested users to access NEA's site on PSI readings
