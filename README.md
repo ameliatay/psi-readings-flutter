@@ -23,6 +23,7 @@ A new Flutter project.
 
 ## Future iterations
 
-1. Ensure visibility on all devices across iOS and Android
-2. Display user's location as a different coloured marker
-3. Have a second page with more readings for different types of PSI values
+1. Shifting to an MVC model as the app functionalities expand
+2. Ensure visibility on all devices across iOS and Android
+3. Display user's location as a different coloured marker
+4. Have a second page with more readings for different types of PSI values
