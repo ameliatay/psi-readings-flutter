@@ -14,6 +14,7 @@ A new Flutter project.
 
 - ```git clone``` with the repo's URL in desired local directory
 - ```cd``` into the folder
+- Create a .env folder and input your api key with the following format: ```GOOGLE_MAPS_API_KEY=<your API key>```
 - Run ```flutter run``` or use the IDE's ```Run``` > ```Start Debugging```
 
 
